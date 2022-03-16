@@ -28,12 +28,14 @@ Here are some ideas to get you started:
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple" />
 </p>
-
+<br>
+<br>
+### **My Repo's**
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=SentimentAnalysisOnCoronaTweets" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=Data-Science-Capstone" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=ClusteringNIPSConferencePapers1987-2015" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=DetectingCOVID-19withChestXRay" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=VISUALGO" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=ClusteringNIPSConferencePapers1987-2015" />
 </p>
 
