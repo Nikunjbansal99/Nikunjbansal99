@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## **Data Scientist | MLOps Engineer | Researcher**
   
-  <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 🔭 I’m currently working on **Cloud AI | MLOps**
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *I am a **DL Enthusiast***
 
 
-<p align="center">
+<p align="left">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple" />
 </p>
