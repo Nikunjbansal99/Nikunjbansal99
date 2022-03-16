@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ## **Data Scientist | MLOps Engineer | Researcher**
   
   <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
-  
+<br/>
+<br/>
 - 💬 Ask me about anything, I am happy to help;
 - 🔭 I’m currently working on **Cloud AI | MLOps**
 - 🌱 I’m currently gaining expertise in **Deep Learning**
