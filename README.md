@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ## **Data Scientist | MLOps Engineer | Researcher**
   
   <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
-
+  
+<p align="justify">
 Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engineer from India. My passion for Data Science lies to make this world a better place. Interested in environmental, political, and health related issues.
-
+</p>
 <!--I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.-->
 
 - 💬 Ask me about anything, I am happy to help;
