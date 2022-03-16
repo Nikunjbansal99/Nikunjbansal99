@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Nikunj Bansal
 
 ## **Data Scientist | MLOps Engineer | Researcher**
-
+  
+  <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
 - 🔭 I’m currently working on **Cloud AI | MLOps**
 - 🌱 I’m currently gaining expertise in **Deep Learning**
 - 👯 I’m looking to collaborate on **Research Work** 
-- 📫 How to reach me: [*My Bio*](https://linktr.ee/nikunjbansal99)
+- 📫 How to reach me: [*@nikunj*](https://linktr.ee/nikunjbansal99)
 - 😄 Pronouns: **He/Him/His/Himself**
 - ⚡ Fun fact: *I am a **DL Enthusiast***
 
