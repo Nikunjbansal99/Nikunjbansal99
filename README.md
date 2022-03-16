@@ -36,9 +36,8 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple" />
 </p>
-<br>
-<br>
 
+<br>
 ## **My Repos**
 
 <p align="center">
