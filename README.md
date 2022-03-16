@@ -31,8 +31,6 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
 - ⚡ Fun fact: *I am a **DL Enthusiast***
 
 <br>
-<br>
-
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
