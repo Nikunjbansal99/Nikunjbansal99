@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋,I'm Nikunj Bansal
+# Hi 👋, I'm Nikunj Bansal
 
 ## **Data Scientist | MLOps Engineer | Researcher**
 
@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 <br>
-### **My Repos**
+
+## **My Repos**
+
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=SentimentAnalysisOnCoronaTweets" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=Data-Science-Capstone" />
