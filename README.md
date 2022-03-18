@@ -54,6 +54,5 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=GenderRecognition" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=MNISTClassification" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=ClusteringNIPSConferencePapers1987-2015" />
-
 </p>
 
