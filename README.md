@@ -34,8 +34,22 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
 <br>
 
 <p align="center">
+    
+  <a href="https://github.com/Nikunjbansal99/Nikunjbansal99">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjbansal99&hide=Jupyter%20Notebook&theme=midnight-purple" alt="Nikunj's Top Languages" />
+  </a>
+</p>
+
+<br>
+
+## **Authorship**
+
+<p align="left">
+   <a href="https://www.nature.com/articles/s41598-021-94422-y">Semantic Segmentation of PolSAR Image data using Advanced Deep learning Model</a><br>
+   <a href="https://ieeexplore.ieee.org/document/9702577/">Experimentation with NMT models on low resource Indic languages</a><br>
+   <a href="https://iq.opengenus.org/k-medoids-clustering/">K-medoids Clustering</a>
 </p>
 
 <br>
@@ -43,16 +57,38 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
 ## **My Repos**
 
 <p align="center">
+  <a href="https://github.com/Nikunjbansal99/SentimentAnalysisOnCoronaTweets">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=SentimentAnalysisOnCoronaTweets" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/Data-Science-Capstone">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=Data-Science-Capstone" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/DetectingCOVID-19withChestXRay">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=DetectingCOVID-19withChestXRay" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/VISUALGO">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=VISUALGO" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/AsteroidDiameterPrediction">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=AsteroidDiameterPrediction" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/AWS-Practicals">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=AWS-Practicals" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/CovidAI-App">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=CovidAI-App" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=DVC" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/DVC_testing">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=DVC_testing" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/GenderRecognition">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=GenderRecognition" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/MNISTClassification">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=MNISTClassification" />
+  </a>
+  <a href="https://github.com/Nikunjbansal99/ClusteringNIPSConferencePapers1987-2015">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikunjbansal99&theme=midnight-purple&repo=ClusteringNIPSConferencePapers1987-2015" />
+  </a>
 </p>
 
