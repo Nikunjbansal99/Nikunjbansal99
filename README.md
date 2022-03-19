@@ -23,10 +23,10 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
 </p>
 <!--I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.-->
 
-- 💬 Ask me about anything, I am happy to help;
 - 🔭 I’m currently working on **Cloud AI | MLOps**
 - 🌱 I’m currently gaining expertise in **Deep Learning**
 - 👯 I’m looking to collaborate on **Research Work** 
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@nikunj](https://linktr.ee/nikunjbansal99)
 - 😄 Pronouns: **He/Him/His/Himself**
 - ⚡ Fun fact: *I am a **DL Enthusiast***
