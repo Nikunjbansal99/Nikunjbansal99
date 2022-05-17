@@ -37,7 +37,7 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
     
   <a href="https://github.com/Nikunjbansal99/Nikunjbansal99">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikunjbansal99&theme=midnight-purple&show_icons=true" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunjbansal99&theme=midnight-purple&count_private=true" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjbansal99&hide=Jupyter%20Notebook&theme=midnight-purple" alt="Nikunj's Top Languages" />
   </a>
 </p>
