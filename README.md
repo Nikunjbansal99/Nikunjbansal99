@@ -48,6 +48,7 @@ Hi, I'm [Nikunj Bansal], an aspiring Data Scientist and a passionate MLOps engin
 
 <p align="left">
    <a href="https://www.nature.com/articles/s41598-021-94422-y">Semantic Segmentation of PolSAR Image data using Advanced Deep learning Model</a><br>
+   <a href="https://www.springer.com/journal/12161">Allergen30: Detecting food items with possible allergens using deep learning-based computer vision</a><br>
    <a href="https://ieeexplore.ieee.org/document/9702577/">Experimentation with NMT models on low resource Indic languages</a><br>
    <a href="https://iq.opengenus.org/k-medoids-clustering/">K-medoids Clustering</a>
 </p>
