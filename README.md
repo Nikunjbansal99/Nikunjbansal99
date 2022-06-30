@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
   
 <p align="justify">
-An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from India. My passion for Data Science lies in improving this world. I have previously worked as an MLOps Engineer at <a href="https://www.railofy.com/" target="_blank">Railofy</a>. Currently working as a Data Scientist at <a href="https://www.cognizant.com/in/en" target="_blank">Cognizant</a>. Also, Building <a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a>, a Community that enables Collaborative Open Research in Deep Learning. Having an Expertise in Computer Vision and NLP Domain. Interested in Environmental, Food, and Health-related Issues.
+An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from India. My passion for Data Science lies in improving this world. I have worked as an MLOps Engineer at <a href="https://www.railofy.com/" target="_blank">Railofy</a>. Currently working as a Data Scientist at <a href="https://www.cognizant.com/in/en" target="_blank">Cognizant</a>. Also, Building <a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a>, a Community that enables Collaborative Open Research in Deep Learning. Having an Expertise in Computer Vision and NLP Domain. Interested in Environmental, Food, and Health-related Issues.
 </p>
 <!--I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.-->
 
