@@ -27,7 +27,6 @@ An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from I
 - 🌱 I’m currently gaining expertise in **Deep Learning**
 - 👯 I’m looking to collaborate on **Research Work** 
 - 💬 Ask me about anything, I am happy to help
-- 📫 About me: [@nikunjbansal99](https://nikunjbansal99.me/)
 - 📫 How to reach me: [@nikunj](https://linktr.ee/nikunjbansal99)
 - 😄 Pronouns: **He/Him/His/Himself**
 - ⚡ Fun fact: *I am a **DL Enthusiast***
