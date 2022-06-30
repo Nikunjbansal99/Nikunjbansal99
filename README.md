@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/Nikunjbansal99/Nikunjbansal99/blob/main/code.gif?raw=true" width="500" height="320" />
   
 <p align="justify">
-An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from India. My passion for Data Science lies in improving this world. I have worked as an MLOps Engineer at <a href="https://www.railofy.com/" target="_blank">Railofy</a>. Currently working as a Data Scientist at <a href="https://www.cognizant.com/in/en" target="_blank">Cognizant</a>. Also, Building <a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a>, a Community that enables Collaborative Open Research in Deep Learning. Having an Expertise in Computer Vision and NLP Domain. Interested in Environmental, Food, and Health-related Issues.
+An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from India. My passion for Data Science lies in improving this world. I have worked as an MLOps Engineer at <a href="https://www.railofy.com/" target="_blank">Railofy</a>. Working as a Data Scientist at <a href="https://www.cognizant.com/in/en" target="_blank">Cognizant</a>. Also, Helping Build <a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a>, a Community that enables Collaborative Open Research in Deep Learning. Having an Expertise in Computer Vision and NLP Domain. Interested in Environmental, Food, and Health-related Issues.
 </p>
 <!--I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.-->
 
@@ -49,7 +49,7 @@ An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from I
 
 <p align="left">
    <a href="https://www.nature.com/articles/s41598-021-94422-y">Semantic Segmentation of PolSAR Image data using Advanced Deep learning Model</a><br>
-   <a href="https://www.springer.com/journal/12161">Allergen30: Detecting food items with possible allergens using deep learning-based computer vision</a><br>
+   <a href="https://universe.roboflow.com/allergen30/food_new-uuulf">Allergen30: Detecting food items with possible allergens using deep learning-based computer vision</a><br>
    <a href="https://ieeexplore.ieee.org/document/9702577/">Experimentation with NMT models on low resource Indic languages</a><br>
    <a href="https://iq.opengenus.org/k-medoids-clustering/">K-medoids Clustering</a>
 </p>
