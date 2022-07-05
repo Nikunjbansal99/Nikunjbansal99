@@ -48,7 +48,7 @@ An aspiring Data Scientist, a passionate MLOps engineer, and a Researcher from I
 
 <p align="left">
    <a href="https://www.nature.com/articles/s41598-021-94422-y">Semantic Segmentation of PolSAR Image data using Advanced Deep learning Model</a><br>
-   <a href="https://universe.roboflow.com/allergen30/food_new-uuulf">Allergen30: Detecting food items with possible allergens using deep learning-based computer vision</a><br>
+   <a href="https://link.springer.com/article/10.1007/s12161-022-02353-9">Allergen30: Detecting Food Items with Possible Allergens Using Deep Learning-Based Computer Vision</a><br>
    <a href="https://ieeexplore.ieee.org/document/9702577/">Experimentation with NMT models on low resource Indic languages</a><br>
    <a href="https://iq.opengenus.org/k-medoids-clustering/">K-medoids Clustering</a>
 </p>
